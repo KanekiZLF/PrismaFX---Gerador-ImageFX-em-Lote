@@ -69,12 +69,6 @@ As imagens geradas aparecerão no painel da direita.
 - Clique em **"Regerar Atual"** para tentar um novo resultado para o prompt que está sendo exibido.
 - Clique em **"Salvar Página..."** para abrir uma janela e escolher uma pasta no seu computador para salvar as imagens do prompt atual.
 
-## 💖 Apoie o Projeto
-
-Se o PrismaFX te ajudou a economizar tempo e a criar coisas incríveis, considere apoiar o desenvolvimento com uma doação via PIX. Qualquer valor ajuda a manter o projeto vivo e em constante evolução!
-
-![QR Code PIX](assets/qrcode_pix.png)
-
 ## ⚠️ Aviso Importante
 
 Este programa utiliza uma API **não oficial** para se comunicar com os serviços do Google ImageFX e não possui afiliação, patrocínio ou endosso do Google. Por depender de um serviço não documentado, a ferramenta pode parar de funcionar a qualquer momento se houverem alterações na plataforma original. Use por sua conta e risco.

@@ -101,5 +101,5 @@ Este projeto é distribuído sob a Licença MIT. Veja o arquivo `LICENSE` para m
 ---
 
 <p align="center">
-  Desenvolvido com ❤️ por Luiz F. R. Pimentel
+  Desenvolvido por Luiz F. R. Pimentel
 </p>

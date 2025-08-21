@@ -1,5 +1,6 @@
 # PrismaFX
 
+[![Tutorial em Vídeo](https://img.shields.io/badge/Tutorial-YouTube-red)](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
 [![Licença](https://img.shields.io/badge/licença-MIT-blue.svg)](LICENSE)
 
 PrismaFX é uma ferramenta de automação para Windows que potencializa a sua criatividade, permitindo a geração de imagens em lote através da tecnologia ImageFX do Google Labs.
@@ -8,7 +9,7 @@ PrismaFX é uma ferramenta de automação para Windows que potencializa a sua cr
 
 ## 🖼️ Visão Geral
 
-![Screenshot do PrismaFX](link_para_seu_screenshot.png)
+![Screenshot do PrismaFX](https://img001.prntscr.com/file/img001/Fwrib_UrRR-F3dgxd_QY0Q.png)
 
 ## ✨ Funcionalidades
 
@@ -23,9 +24,8 @@ PrismaFX é uma ferramenta de automação para Windows que potencializa a sua cr
 
 Nenhuma instalação é necessária! O programa é um executável portátil.
 
-1.  Vá para a página de **[Releases](https://github.com/KanekiZLF/PrismaFX---Gerador-ImageFX-em-Lote)**.
-2.  Baixe o arquivo `PrismaFX.exe` da versão mais recente.
-3.  Execute o arquivo e comece a criar!
+1.  Baixe o arquivo `PrismaFX.exe` da versão mais recente.
+2.  Execute o arquivo e comece a criar!
 
 ## 📖 Como Usar
 
@@ -33,12 +33,21 @@ O uso do PrismaFX é dividido em 5 passos simples:
 
 #### 1. Obter o Token de Autenticação
 
-O programa precisa de um token de acesso para se comunicar com a API do ImageFX.
+O programa precisa de um token de acesso para se comunicar com a API do ImageFX. Para obtê-lo:
 
-- Clique no botão **`?`** ao lado do campo do token para abrir um guia passo a passo.
-- Assista ao **tutorial em vídeo** (link disponível na janela de ajuda e no menu "Sobre") para um guia visual.
-- Cole o token obtido no campo "Token de Autenticação".
+1.  **Acesse o site:** Abra o [ImageFX do Google Labs](https://labs.google/fx/pt/tools/image-fx) no seu navegador.
+2.  **Abra o Console:** Pressione a tecla `F12` para abrir as "Ferramentas de Desenvolvedor".
+3.  **Vá para a aba "Console"**.
+4.  **Copie o código abaixo** e cole-o no console:
+    ```javascript
+    let script = document.querySelector("#__NEXT_DATA__");
+    let obj = JSON.parse(script.textContent);
+    console.log(obj.props.pageProps.session.access_token);
+    ```
+5.  **Pressione Enter.** O seu token de acesso pessoal será exibido no console.
+6.  **Copie o token** e cole-o no campo "Token de Autenticação" do PrismaFX.
 
+> ✨ **Dica:** Dentro do programa, o botão **`?`** abre uma janela de ajuda que contém este mesmo guia e um botão para copiar o código automaticamente. Você também pode assistir ao **[tutorial em vídeo](https://www.youtube.com/watch?v=SEU_VIDEO_ID)** para um guia visual.
 #### 2. Configurar os Prompts
 
 Você pode preparar vários prompts para serem executados em sequência.
@@ -53,7 +62,7 @@ Personalize os parâmetros de geração para cada lote:
 
 - **Proporção:** Escolha entre Quadrado (1:1), Retrato (9:16) ou Paisagem (16:9).
 - **Imagens por Prompt:** Defina quantas imagens (de 1 a 4) devem ser geradas para cada prompt.
-- **Seed:** Digite um número de "semente" para obter resultados mais consistentes. Marque a caixa **"Travar Seed"** se quiser usar o mesmo número para todos os prompts do lote.
+- **Seed:** Digite um número de "semente" para obter resultados mais consistentes ou deixe em branco para gerar uma seed aleatória. Marque a caixa **"Travar Seed"** se quiser usar o mesmo número para todos os prompts do lote.
 
 #### 4. Gerar as Imagens
 
@@ -69,6 +78,18 @@ As imagens geradas aparecerão no painel da direita.
 - Clique em **"Regerar Atual"** para tentar um novo resultado para o prompt que está sendo exibido.
 - Clique em **"Salvar Página..."** para abrir uma janela e escolher uma pasta no seu computador para salvar as imagens do prompt atual.
 
+## 🛠️ Desenvolvido Com
+
+Este projeto foi construído utilizando as seguintes tecnologias:
+
+* **Linguagem:** Python
+* **Interface Gráfica:** CustomTkinter
+* **Requisições de Rede:** Requests
+* **Manipulação de Imagens:** Pillow
+* **Empacotamento:** PyInstaller
+
+---
+
 ## ⚠️ Aviso Importante
 
 Este programa utiliza uma API **não oficial** para se comunicar com os serviços do Google ImageFX e não possui afiliação, patrocínio ou endosso do Google. Por depender de um serviço não documentado, a ferramenta pode parar de funcionar a qualquer momento se houverem alterações na plataforma original. Use por sua conta e risco.
@@ -76,3 +97,9 @@ Este programa utiliza uma API **não oficial** para se comunicar com os serviço
 ## 📜 Licença
 
 Este projeto é distribuído sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+
+---
+
+<p align="center">
+  Desenvolvido com ❤️ por Luiz F. R. Pimentel
+</p>

@@ -1,6 +1,6 @@
 # PrismaFX
 
-[![Tutorial em Vídeo](https://www.youtube.com/watch?v=SEU_VIDEO_ID)](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
+[![Tutorial em Vídeo](https://img.shields.io/badge/Tutorial-YouTube-red)](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
 [![Licença](https://img.shields.io/badge/Licença-MIT-blue.svg)](https://github.com/KanekiZLF/PrismaFX---Gerador-ImageFX-em-Lote/blob/master/license.txt)
 
 PrismaFX é uma ferramenta de automação para Windows que potencializa a sua criatividade, permitindo a geração de imagens em lote através da tecnologia ImageFX do Google Labs.

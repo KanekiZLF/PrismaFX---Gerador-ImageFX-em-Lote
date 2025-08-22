@@ -48,7 +48,7 @@ O programa precisa de um token de acesso para se comunicar com a API do ImageFX.
 5.  **Pressione Enter.** O seu token de acesso pessoal será exibido no console.
 6.  **Copie o token** e cole-o no campo "Token de Autenticação" do PrismaFX.
 
-> ✨ **Dica:** Dentro do programa, o botão **`?`** abre uma janela de ajuda com este guia e um botão para copiar o código automaticamente. Você também pode assistir ao **[tutorial em vídeo](https://www.youtube.com/watch?v=SEU_VIDEO_ID)**.
+> ✨ **Dica:** Dentro do programa, o botão **`?`** abre uma janela de ajuda com este guia e um botão para copiar o código automaticamente. Você também pode assistir ao **[tutorial em vídeo](https://www.youtube.com/watch?v=f_NrxFAwhZ0)**.
 
 #### 2. Configurar os Prompts
 

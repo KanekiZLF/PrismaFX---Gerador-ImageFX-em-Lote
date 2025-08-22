@@ -58,14 +58,17 @@ Você pode preparar vários prompts para serem executados em sequência de duas 
 
 1.  Crie um arquivo de texto (`.txt`) com seus prompts. O formato deve seguir este padrão:
     ```txt
-    Prompt 1 – Título Opcional
-    Descrição detalhada da primeira imagem, pode ter várias linhas.
-    Mais detalhes sobre a primeira imagem.
+    Prompt 1 – A despedida na Antártida
 
-    Prompt 2 – Outro Título
-    Descrição da segunda imagem.
-
-    Prompt 3 – ...
+    Um pinguim cartoon 3D estilo Disney/Pixar chamado Picolino, corpo rechonchudo, penas pretas e brancas brilhantes, olhos grandes expressivos, bochechas fofas, usando uma mochila amarela e carregando um caderninho de anotações preso com elástico. Ele está em pé sobre uma rocha de gelo, olhando o horizonte cheio de icebergs iluminados por um pôr do sol rosado e laranja. Atmosfera mágica, cinematográfica, leve névoa no ar, reflexo dourado no mar congelado. Ângulo: plano médio com leve contra-plongée para transmitir coragem.
+    
+    Prompt 2 – Escondido no navio
+    
+    Picolino, o pinguim cartoon 3D estilo Disney/Pixar, dentro do porão de um navio de carga, escondido em uma caixa de madeira aberta, com apenas seus olhos grandes e curiosos espiando pela fresta. Sua mochila amarela aparece levemente, e o caderninho está sobre suas patas. Ambiente escuro iluminado por uma única lâmpada pendurada, criando um contraste engraçado e dramático. Estilo vibrante, texturas detalhadas de madeira e metal enferrujado. Ângulo: close divertido, destacando sua expressão curiosa.
+    
+    Prompt 3 – Chegada à cidade
+    
+    Picolino, pinguim cartoon 3D Disney/Pixar, saindo de dentro de uma caixa no porto movimentado de uma...
     ```
 2.  No PrismaFX, ao lado do seletor de "Quantidade de Prompts", clique no botão **"Carregar de TXT..."**.
 3.  Selecione seu arquivo. O programa irá ler, formatar e carregar todos os prompts automaticamente.

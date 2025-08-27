@@ -123,6 +123,12 @@ Este projeto é distribuído sob a Licença MIT. Veja o arquivo `LICENSE` para m
 
 ---
 
+### 📩 Quer o Código Fonte? 
+<p align="center">
+  Interessado no código fonte? Me mande um email: kanekizlf4@gmail.com
+</p>
+
+---
 <p align="center">
   Desenvolvido por Luiz F. R. Pimentel
 </p>

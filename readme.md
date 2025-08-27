@@ -14,7 +14,7 @@ PrismaFX é uma ferramenta de automação para Windows que potencializa a sua cr
 ## ✨ Funcionalidades
 
 - **Geração em Lote:** Crie ou carregue de 1 a 50 prompts e gere todas as imagens de uma só vez.
-- **Carregar de Arquivo:** Importe listas de prompts diretamente de um arquivo `.txt` para automação rápida.
+- **Carregador de Arquivos:** Importe listas de prompts diretamente de um arquivo `.txt` para automação rápida.
 - **Controle Total:** Ajuste a proporção (quadrado, retrato, paisagem) e o número de imagens por prompt.
 - **Consistência com Seed:** Trave uma "semente" (seed) para gerar imagens com um estilo visual consistente.
 - **Visualizador Integrado:** Navegue pelos resultados de cada prompt diretamente na interface do programa.

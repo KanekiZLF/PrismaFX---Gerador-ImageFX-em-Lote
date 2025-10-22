@@ -1,7 +1,7 @@
 # PrismaFX
 
 [![Tutorial em Vídeo](https://img.shields.io/badge/Tutorial-YouTube-red)](https://www.youtube.com/watch?v=f_NrxFAwhZ0)
-**[![Código Fonte](https://img.shields.io/badge/Código_Fonte-GitHub-blue)](https://github.com/KanekiZLF/PrismaFX---Gerador-ImageFX-em-Lote)**
+**[![Código Fonte](https://img.shields.io/badge/Código_Fonte-GitHub-blue)](https://github.com/KanekiZLF/AI-Prompts-To-ImageFX)**
 [![Licença](https://img.shields.io/badge/Licença-MIT-blue.svg)](https://github.com/KanekiZLF/PrismaFX---Gerador-ImageFX-em-Lote/blob/master/license.txt)
 
 PrismaFX é uma ferramenta de automação para Windows que potencializa a sua criatividade, permitindo a geração de imagens em lote através da tecnologia ImageFX do Google Labs.
@@ -124,9 +124,11 @@ Este projeto é distribuído sob a Licença MIT. Veja o arquivo `LICENSE` para m
 
 ---
 
-### 📩 Quer o Código Fonte? 
+### 💻 Código Fonte
 <p align="center">
-  Interessado no código fonte? Me mande um email: kanekizlf4@gmail.com
+  Interessado em ver como o PrismaFX foi construído? O código fonte está disponível no GitHub!
+  <br>
+  <a href="https://github.com/KanekiZLF/AI-Prompts-To-ImageFX">**Acessar Repositório no GitHub**</a>
 </p>
 
 ---

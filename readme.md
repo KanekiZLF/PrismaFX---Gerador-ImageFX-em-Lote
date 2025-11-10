@@ -10,7 +10,7 @@ PrismaFX é uma ferramenta de automação para Windows que potencializa a sua cr
 
 ## 🖼️ Visão Geral
 
-![Screenshot do PrismaFX](https://img001.prntscr.com/file/img001/QWSIDYRWQk-r5AyoV_ttMw.png)
+![Screenshot do PrismaFX](https://image.prntscr.com/image/5omtGTOITBqZ1TzfD1aCAA.png)
 
 ## ✨ Funcionalidades
 

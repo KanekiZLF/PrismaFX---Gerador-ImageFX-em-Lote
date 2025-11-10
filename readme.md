@@ -1,6 +1,7 @@
 # PrismaFX
 
 [![Tutorial em Vídeo](https://img.shields.io/badge/Tutorial-YouTube-red)](https://www.youtube.com/watch?v=f_NrxFAwhZ0)
+**[![Código Fonte](https://img.shields.io/badge/Código_Fonte-GitHub-blue)](https://github.com/KanekiZLF/AI-Prompts-To-ImageFX)**
 [![Licença](https://img.shields.io/badge/Licença-MIT-blue.svg)](https://github.com/KanekiZLF/PrismaFX---Gerador-ImageFX-em-Lote/blob/master/license.txt)
 
 PrismaFX é uma ferramenta de automação para Windows que potencializa a sua criatividade, permitindo a geração de imagens em lote através da tecnologia ImageFX do Google Labs.
@@ -14,7 +15,7 @@ PrismaFX é uma ferramenta de automação para Windows que potencializa a sua cr
 ## ✨ Funcionalidades
 
 - **Geração em Lote:** Crie ou carregue de 1 a 50 prompts e gere todas as imagens de uma só vez.
-- **Carregar de Arquivo:** Importe listas de prompts diretamente de um arquivo `.txt` para automação rápida.
+- **Carregador de Arquivos:** Importe listas de prompts diretamente de um arquivo `.txt` para automação rápida.
 - **Controle Total:** Ajuste a proporção (quadrado, retrato, paisagem) e o número de imagens por prompt.
 - **Consistência com Seed:** Trave uma "semente" (seed) para gerar imagens com um estilo visual consistente.
 - **Visualizador Integrado:** Navegue pelos resultados de cada prompt diretamente na interface do programa.
@@ -48,7 +49,7 @@ O programa precisa de um token de acesso para se comunicar com a API do ImageFX.
 5.  **Pressione Enter.** O seu token de acesso pessoal será exibido no console.
 6.  **Copie o token** e cole-o no campo "Token de Autenticação" do PrismaFX.
 
-> ✨ **Dica:** Dentro do programa, o botão **`?`** abre uma janela de ajuda com este guia e um botão para copiar o código automaticamente. Você também pode assistir ao **[tutorial em vídeo](https://www.youtube.com/watch?v=SEU_VIDEO_ID)**.
+> ✨ **Dica:** Dentro do programa, o botão **`?`** abre uma janela de ajuda com este guia e um botão para copiar o código automaticamente. Você também pode assistir ao **[tutorial em vídeo](https://www.youtube.com/watch?v=f_NrxFAwhZ0)**.
 
 #### 2. Configurar os Prompts
 
@@ -123,6 +124,14 @@ Este projeto é distribuído sob a Licença MIT. Veja o arquivo `LICENSE` para m
 
 ---
 
+### 💻 Código Fonte
+<p align="center">
+  Interessado em ver como o PrismaFX foi construído? O código fonte está disponível no GitHub!
+  <br>
+  <a href="https://github.com/KanekiZLF/AI-Prompts-To-ImageFX">**Acessar Repositório no GitHub**</a>
+</p>
+
+---
 <p align="center">
   Desenvolvido por Luiz F. R. Pimentel
 </p>

@@ -1,0 +1,20 @@
+Prompt 1 - Anúncio de Serviço de Pet Sitter (Amigável e Divertido)
+"Crie um anúncio digital com tema acolhedor e divertido para um serviço de pet sitter. O fundo deve ser um gradiente suave de tons pastel (como azul céu e verde menta), com algumas pegadas de patas pequenas espalhadas sutilmente. No centro da imagem, deve haver uma composição alegre de um cachorro sorridente (da raça Golden Retriever, por exemplo) e um gato amigável, ambos olhando curiosamente para a câmera. Ao lado deles, uma mão humana, com um gesto carinhoso, oferece um petisco. O estilo deve ser ilustrativo, com cores vibrantes e uma sensação de alegria e cuidado. Os elementos textuais devem ser inseridos com precisão e clareza, utilizando as seguintes frases e informações em destaque, com um design de fonte arredondado e amigável, em cores contrastantes (preto ou azul escuro):
+
+1. Título Principal (no topo, grande e centralizado): 'SEU MELHOR AMIGO EM BOAS MÃOS!' 2. Serviço Oferecido (abaixo do título): 'Serviço de Pet Sitter Confiável e Carinhoso' 3. Telefone para Contato (na parte inferior, centralizado): 'LIGUE AGORA: (11) 98765-4321' 4. Logotipo/Nome da Empresa (no canto inferior, como um logotipo genérico): 'PET CARE FELIZ'
+
+Certifique-se de que todo o texto seja renderizado exatamente como fornecido, sem alterações ou erros de ortografia."
+
+Prompt 2 - Anúncio de Loja de Café Gourmet (Moderno e Aconchegante)
+"Crie um anúncio digital com tema moderno e aconchegante para uma loja de café gourmet. O fundo deve ser um ambiente minimalista de cafeteria, com tons quentes de marrom, creme e cinza-claro, com a luz do sol entrando suavemente por uma janela, criando um efeito de luz e sombra. No centro, uma xícara de café estilosa com arte latte (um coração ou folha), exalando vapor, sobre uma mesa de madeira rústica, acompanhada por grãos de café espalhados artisticamente e uma planta pequena. O estilo deve ser fotorealista, com foco em texturas e detalhes. Os elementos textuais devem ser inseridos com precisão e clareza, utilizando as seguintes frases e informações em destaque, com um design de fonte elegante e limpo, em cores que contrastem bem com o fundo (preto ou marrom escuro):
+
+1. Título Principal (no topo, grande e centralizado): 'EXPERIMENTE O SABOR PERFEITO' 2. Chamada para Ação (abaixo do título): 'Cafés Especiais para Momentos Únicos' 3. Endereço/Site (na parte inferior, centralizado): 'VISITE-NOS: Rua do Café, 123 | www.cafearoma.com.br' 4. Logotipo/Nome da Empresa (no canto inferior, como um logotipo genérico): 'CAFÉ AROMA'
+
+Certifique-se de que todo o texto seja renderizado exatamente como fornecido, sem alterações ou erros de ortografia."
+
+Prompt 3 - Anúncio de Academia/Fitness (Energético e Motivacional)
+"Crie um anúncio digital com tema energético e motivacional para uma academia de ginástica. O fundo deve ser dinâmico, com um gradiente de cores vibrantes (como laranja, vermelho e roxo) e luzes focadas, simulando um ambiente de treino moderno e iluminado. No centro, uma silhueta atlética (pode ser de uma pessoa correndo ou levantando peso) em pose de movimento, transmitindo força e determinação. Pode haver respingos de suor estilizados ou partículas de energia para realçar a intensidade. O estilo deve ser gráfico e moderno, com cores fortes e um senso de movimento. Os elementos textuais devem ser inseridos com precisão e clareza, utilizando as seguintes frases e informações em destaque, com um design de fonte robusto e impactante, em cores que se destaquem (branco ou amarelo brilhante):
+
+1. Título Principal (no topo, grande e centralizado): 'TRANSFORME SEU CORPO, TRANSFORME SUA VIDA' 2. Slogan (abaixo do título): 'Comece Hoje. Alcance Seus Limites.' 3. Telefone para Contato (na parte inferior, centralizado): 'LIGUE E AGENDE: (11) 7777-8888' 4. Logotipo/Nome da Empresa (no canto inferior, como um logotipo genérico): 'FORMA MÁXIMA ACADEMIA'
+
+Certifique-se de que todo o texto seja renderizado exatamente como fornecido, sem alterações ou erros de ortografia."
